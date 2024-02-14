@@ -1,5 +1,14 @@
 # Home Assignment: Scratch Game #
 
+## How To Run ##
+
+inside jar folder, an executable jar file is added 
+
+you can run the below command , keep in mind to provide the full path of config file 
+
+```bash
+ java -jar scratch-games-task.jar --config /Users/xxxyyyzzz/config.json --betting-amount 100
+```
 
 ## Requirements ##
 
